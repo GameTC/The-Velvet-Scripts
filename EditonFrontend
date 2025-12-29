@@ -1,0 +1,21 @@
+{
+    "biweekly": [
+        "Week 1: Global Climate Talks: Youth Perspectives",
+        "Week 3: AI Ethics in 2025 Elections",
+        "Week 5: Trump's Africa Trade Agenda"
+    ],
+    "articles": [
+        {
+            "title": "Trump's 2025 Agenda: Impacts on Africa",
+            "author": "Mira & Friends",
+            "date": "2025-12-29",
+            "content": "As the reelected president navigates trade policies, Ghanaian students analyze effects on local markets and tech exports. Key insights include renewed US-Africa summits and investment shifts toward renewable energy partnerships."
+        },
+        {
+            "title": "AI Revolution: Student Views on Job Markets",
+            "author": "IBDP Computer Science Class",
+            "date": "2025-12-22",
+            "content": "Exploring how tools like advanced AI assistants shape IBDP computer science curricula and future careers in Accra. Debate: Boon or threat to creative industries like graphic design and digital art?"
+        }
+    ]
+}
